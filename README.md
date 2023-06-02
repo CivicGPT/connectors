@@ -25,8 +25,6 @@ Connectors
    - **Description**: Bilibili is a video sharing platform based on user-generated content, particularly around gaming, animation, and comics. The platform saw a massive surge in the last few years, going from about 50 million monthly active users in 2017 to over 100 million by June 2019【35†source】.
    - **Use case**: Depending on the specifics of the LlamaHub bilibili source, a potential use case could be to analyze user-generated content for trends, or to generate recommendations based on user activity.
 
-Certainly! Here's the formatted markdown document with items 7-15 from the provided list:
-
 7. **boarddocs**
    - **Description**: BoardDocs, a Diligent brand, is the intuitive, easy-to-use paperless meeting management software that enables public school boards to achieve best-in-class governance with a modern approach.
    - **Use case**: A potential use case could be to analyze meeting minutes for trends, extract action items from meetings, or generate summaries of meeting content.
